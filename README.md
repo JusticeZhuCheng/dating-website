@@ -6,7 +6,7 @@ The user module is used to edit the users information and check the friend list.
 The activity module offers avtivities for programmers to participate in.</br>
 The homepage is where the users viewing the others' information.</br>
 
-This prokject is based on the M(mangodb)E(express)A(Angular)N(Node) structure.</br>
+This project is based on the M(mangodb)E(express)A(Angular)N(Node) structure.</br>
 This project developed by Angular2. Make sure you have installed node.js.</br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
@@ -27,7 +27,7 @@ Bin Li 12520817</br>
 ## Database
 Run `cd server` in terminal.</br>
 Run `node server.js` for a express server.</br>
-Run `websocketServer.js` for a websocket server.</br>
+Run `node websocketServer.js` for a websocket server.</br>
 This project uses mongodb to set up the database and uses mongoose help manage the data.</br>
 
 ## Development server
