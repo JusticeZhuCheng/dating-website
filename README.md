@@ -24,6 +24,7 @@ Yilun Chen 12781961</br>
 Bin Li 12520817</br>
 
 # How to Run the Application</br>
+Run `npm install` to install all the packets required
 ## Database
 Run `cd server` in terminal.</br>
 Run `node server.js` for a express server.</br>
@@ -31,7 +32,7 @@ Run `node websocketServer.js` for a websocket server.</br>
 This project uses mongodb to set up the database and uses mongoose help manage the data.</br>
 
 ## Development server
-
+Run `cd webApp` in terminal.</br>
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
